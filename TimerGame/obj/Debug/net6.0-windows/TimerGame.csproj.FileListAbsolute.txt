@@ -1,0 +1,17 @@
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\bin\Debug\net6.0-windows\TimerGame.exe
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\bin\Debug\net6.0-windows\TimerGame.deps.json
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\bin\Debug\net6.0-windows\TimerGame.runtimeconfig.json
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\bin\Debug\net6.0-windows\TimerGame.dll
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\bin\Debug\net6.0-windows\TimerGame.pdb
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.Form1.resources
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.Properties.Resources.resources
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.csproj.GenerateResource.cache
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.AssemblyInfoInputs.cache
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.AssemblyInfo.cs
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.csproj.CoreCompileInputs.cache
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.dll
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\refint\TimerGame.dll
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.pdb
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\TimerGame.genruntimeconfig.cache
+C:\Users\Tatev\source\repos\TimerGame\TimerGame\obj\Debug\net6.0-windows\ref\TimerGame.dll
